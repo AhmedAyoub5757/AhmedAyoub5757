@@ -1,84 +1,95 @@
 <div align="center">
 
-  <!-- Animated Glowing Banner Title -->
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Ahmed+Ayoub+👋;Full-Stack+Web+Developer+💻;CS+Graduate+%26+Tech+Enthusiast+🚀" alt="Typing SVG" />
-  </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Ahmed%20Ayoub&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20%7C%20Full-Stack%20%7C%20CMS%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-  <p><em>Crafting high-performance web applications, scalable backend systems, and immersive digital experiences.</em></p>
+<a href="https://new-portfolio-iota-vert.vercel.app/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Full-Stack+Engineer+%E2%9A%99%EF%B8%8F;WordPress+%26+Laravel+Specialist+%F0%9F%9A%80;Building+things+for+the+web+with+React+%2F+Next.js" alt="Typing SVG" />
+</a>
 
-  <!-- Animated Social Badges -->
-  <p>
-    <a href="https://linkedin.com/in/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn"/>
-    </a>
-    <a href="https://">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=101010" alt="Portfolio"/>
-    </a>
-    <a href="mailto:">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email"/>
-    </a>
-  </p>
-</div>
+<br/>
 
----
+<a href="https://new-portfolio-iota-vert.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ahmed-ayoub-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ahmed42.dev@gmail.com"><img src="https://img.shields.io/badge/Email-E100FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-### 👨‍💻 About Me
-
-* 🎓 Graduated with a Bachelor of Science in **Computer Science** from Mehran University of Engineering and Technology.
-* 🚀 Specialized in building robust **Full-Stack Web Applications** and custom **WordPress/PHP** solutions.
-* 🎨 Passionate about merging clean architecture with sleek, responsive front-end designs.
-* ⚡ Constantly exploring interactive UI animations and modern web graphics.
-
----
-
-### 🛠️ Tech Stack & Interactive Skills
-
-<div align="center">
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages & Frameworks** | `JavaScript`, `TypeScript`, `PHP`, `React.js`, `Next.js`, `Laravel`, `Node.js`, `Express.js` |
-| **Styling & UI** | `Tailwind CSS`, `Bootstrap`, `HTML5`, `CSS3` |
-| **Databases & CMS** | `MySQL`, `WordPress (Custom Themes, Plugins, Elementor)` |
-| **Tools & Workflow** | `Git`, `GitHub`, `VS Code`, `Postman`, `Figma`, `Vercel` |
+<img src="https://komarev.com/ghpvc/?username=AhmedAyoub5757&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<br/>
 
-### 🌟 Currently Exploring
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Ahmed Ayoub
+role: Frontend & Full-Stack Developer | CMS Specialist
+focus:
+  - Building fast, modern UIs with React / Next.js / TypeScript
+  - Developing & customizing WordPress + PHP sites
+  - Full-stack apps with Laravel
+currently_learning: Leveling up system design & performance optimization
+fun_fact: I enjoy turning messy requirements into clean, shipped products 🚀
+contact: ahmed42.dev@gmail.com
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=threejs,gsap,react&theme=dark" alt="Exploring Tech" />
-  <p><em>Expanding my front-end engineering skillset with interactive motion and 3D web graphics (GSAP, Framer Motion, Three.js, React Three Fiber).</em></p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,php,laravel,wordpress,nodejs,mysql,git,figma,vscode&theme=dark" />
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-### 📊 GitHub Activity & Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAyoub5757&theme=tokyonight&hide_border=false&date_format=M%2Fj%2FY" alt="GitHub Streak" />
-  </p>
 
-  <!-- Stats & Top Languages Cards -->
-  <p>
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=AhmedAyoub5757&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAyoub5757&layout=compact&theme=tokyonight&hide_border=false&hide=html,css" />
-  </p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedAyoub5757&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=00000000&border_color=A855F7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAyoub5757&layout=compact&theme=radical&bg_color=00000000&border_color=A855F7" />
 
-  <!-- GitHub Trophy -->
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=AhmedAyoub5757&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-  </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAyoub5757&theme=radical&background=00000000&border=A855F7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedAyoub5757&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAyoub5757&theme=react-dark&hide_border=true&bg_color=00000000" width="100%"/>
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 📅 Contributions in the Last Year
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedAyoub5757&color=38B2AC&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <p><sub>✨ Designed & Developed with passion by Ahmed Ayoub ✨</sub></p>
+
+<img src="https://ghchart.rshah.org/a855f7/AhmedAyoub5757" alt="Ahmed's GitHub contribution chart" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<div align="center">
+
+### 💬 Let's connect and build something great
+
+<a href="https://www.linkedin.com/in/ahmed-ayoub-dev" target="_blank"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://new-portfolio-iota-vert.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-View%20Portfolio-7F00FF?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer" width="100%"/>
+
 </div>
